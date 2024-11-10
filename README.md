@@ -8,14 +8,15 @@ The final user of this website is likely to be a hiring manager or a recruiter i
 ### Information Architecture
 The information on this website is distributed in an organized and logical way in order to simplify the navigation and offer a clear user experience. This webpage has some sections that represent the key elements of a CV.
 
-First of all, there's a navigation bar located at the top of the webpage that allows users to go directly to a specific section without the need to scroll. Next, the header contains my full name and what profession I am currently in. In my case, I'm just a college student, but this will change in the future. The header also contains an image of myself to give an immediate visual presentation.
+First of all, there's a navigation bar located at the top of the webpage that allows users to go directly to a specific section without the need to scroll. This navbar has been created using Bootstrap. Next, the header contains my full name and what profession I am currently in. In my case, I'm just a college student, but this will change in the future. The header also contains an image of myself to give an immediate visual presentation.
 
 Following the header, there's the main content, organized in several sections. These sections are "About Me" which provides a personal introduction, "Skills" which mentions some of my professional abilities, "Projects" which contains a brief description of some projects that I have done throughout my life, "Education" which stands out what degrees or academic titles I have acquired, "Languages" which indicate the level of English I have; and finally "Contact" which informs the user of some methods by which they can contact me.
 
 Finally, there's the Footer which includes copyright information. This structure allows users to quickly get the information they are looking for.
 
-### Visual Design
+A detail to consider, the JavaScript file only purpose is to delete the default behaviour of the navbar because when you clicked on one of the links, the url of the website changed and when you refreshed the page, it took you directly to the section you went before. The JavaScript script does the scrolling without changing the url of the page.
 
+### Visual Design
 For the visual design of the page, I've chosen a simple and professional color palette based on shades of blue, gray and white. Dark blue is used basically for the background of the header, while the different tonalities of gray are applied as the background color of the footer and used in some boxes of certain sections in order to provide a clean and soft look. On the other hand, white serves as the base for the content sections, creating contrast and making the text easy to read.
 
 The typography used is Roboto, a sans-serif font. There are different weights to highlight titles, subtitles and text, without distracting the user. The font size is adjusted so that titles and sections are easy to distinguish at a glance.
