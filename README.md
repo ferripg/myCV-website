@@ -26,3 +26,7 @@ In terms of page layout, a fixed navigation bar is used at the top. This layout 
 ## Link to the Figma Project
 
 https://www.figma.com/design/peoXpt6LAY1x9N6Q2JbYgE/My-CV-website?node-id=1-2&t=CIdMuGlbRuVJSRrl-1
+
+## Public link to the page
+
+https://ferripg.github.io/myCV-website/
